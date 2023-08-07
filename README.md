@@ -23,3 +23,5 @@
 - Excel
 - Selenium
 - Streamlit
+
+![Image Alt Text](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/Model%20Image.png?raw=true)
