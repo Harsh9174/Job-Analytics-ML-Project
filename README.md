@@ -26,13 +26,11 @@
 # Insights
 ![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(3).png?raw=true)
 ![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(4).png?raw=true)
-
+#### Model Image
+![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/Model%20Image.png?raw=true)
 # Challenges Faced
 ![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(5).png?raw=true)
 
-
-#### Model Image
-![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/Model%20Image.png?raw=true)
 # Conclusion
 ![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(6).png?raw=true)
 ![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(7).png?raw=true)
