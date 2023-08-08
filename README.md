@@ -6,7 +6,7 @@
 #### The Machine Learning model is hosted using Streamlit, a web application framework, which allows users to interact with the model dynamically. The model takes inputs such as the number of company LinkedIn followers and the required experience level and then predicts the job class. Furthermore, users can use the search box to input skills, and the model will fetch relevant job details, displaying the most common experience levels, common workplaces, common job classes, and the total number of available jobs for that skill.
 
 #### To ensure data accuracy and handle user input errors, a spell checker is integrated into the model. Even if users misspell skills, the model will provide the correct data. Python is the primary programming language used to develop the Machine Learning model and incorporate the spell checker.
-
+![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%202023-08-08%20174229.png?raw=true)
 # Key Features
 * Web Scraping: The project utilizes web scraping techniques to collect job data from Instahyre, including job postings, locations, and relevant information.
 
@@ -23,7 +23,16 @@
 - Excel
 - Selenium
 - Streamlit
+# Insights
+![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(3).png?raw=true)
+![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(4).png?raw=true)
+
+# Challenges Faced
+![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(5).png?raw=true)
 
 
 #### Model Image
 ![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/Model%20Image.png?raw=true)
+# Conclusion
+![](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(6).png?raw=true)
+![Model Image](https://github.com/Harsh9174/Job-Analytics-ML-Project/blob/main/data/Screenshot%20(7).png?raw=true)
